@@ -32,7 +32,6 @@ We provided three datasets along with their corresponding KG to validate InterKG
 |       Datasets       | Last-FM | MovieLens1M |Amazon-book | 
 |:------------:|:-------:|:-----------:|-------------|
 |        KG      |Freebase|Freebase|Freebase|
-|:------------:|:-------:|:-----------:|-------------|
 |    users     |  23566  |    6040        | 70679    |
 |    items     |  48123  |    3655        |24915    | 
 | interactions | 3034796 |   997579      |847733    | 
